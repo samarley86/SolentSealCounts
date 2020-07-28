@@ -1,6 +1,6 @@
 # SolentSealCounts
 
-This repository is supplementary to the manuscript "Increasing numbers of harbour seals and grey seals in the Solent", which has been submitted to Biology Letters.
+This repository is supplementary to the manuscript "Increasing numbers of harbour seals and grey seals in the Solent", which has been submitted to *Biology Letters*.
 
 Project Summary: This study utilised a 20-year dataset of seal counts from two neighbouring harbours in the Solent region of southeast England. Generalised additive models (GAMs) showed a significant increase in the numbers of harbour and grey seals utilising Chichester Harbour. Conversely, in Langstone Harbour there has been a significant decrease in the number of harbour seals.
 
