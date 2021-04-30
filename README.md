@@ -8,3 +8,4 @@ Contents:
 - *AllSealCounts.csv* contains counts of harbour and grey seals collected during visual surveys in Chichester and Langstone Harbours, UK
 - *SolentSeals.html* presents the data exploration and analysis, with an extended example of applying GAMs to harbour seal counts in Chichester Harbour
 - *SolentSeals.Rmd* is an RMarkdown file used to create SolentSeals.html
+- *Solent Seal Catalogue 2020* is a photo-ID catalogue containing images of all individually-identified harbour and grey seals from Chichester Harbour
