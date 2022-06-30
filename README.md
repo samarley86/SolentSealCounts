@@ -6,5 +6,5 @@ Project Summary: This study utilised a 20-year dataset of seal counts from two n
 
 Contents:
 - *AllSealCounts.csv* contains counts of harbour and grey seals collected during visual surveys in Chichester and Langstone Harbours, UK
-- *SolentSeals.html* presents the data exploration and analysis, with an extended example of applying GAMs to harbour seal counts in Chichester Harbour
+- *SolentSeals* presents the data exploration and analysis, with an extended example of applying GAMs to harbour seal counts in Chichester Harbour. This can be viewed as either an .html or .pdf file.
 - *Solent Seal Catalogue 2020* is a photo-ID catalogue containing images of all individually-identified harbour and grey seals from Chichester Harbour
